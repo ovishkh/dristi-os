@@ -61,13 +61,7 @@ Nope. You can't do anything properly. On purpose. Because... **aesthetic**.
 To impress **Dristi ma’am**. That’s it.
 (Hi Dristi ma’am 👋)
 
----
 
-## 📸 Screenshots
-
-*(Add some screenshots here to showcase the chaos and beauty)*
-
----
 
 ## 📜 License
 
@@ -75,6 +69,6 @@ MIT (Because why not?)
 
 ---
 
-> Built with frustration, fun, and fandom by [Ovish](https://github.com/ovishkh) 🚀
+> Built with frustration, fun, and fandom by [Ovi Shekh](https://github.com/ovishkh) 🚀
 
 
